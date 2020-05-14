@@ -13,6 +13,11 @@ h1{
 	font-size: 3em;
 	color: #FFFFFF;
 }
+h2{
+	font-size: 1em;
+	color: #FFFFFF;
+	cursor: pointer;
+}
 hr{
 	border-color:#F05F44;
 	border-width: 3px;
